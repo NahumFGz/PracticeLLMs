@@ -1,0 +1,36 @@
+# Ambientes Virtuales de Python
+venv_*/
+
+# Ignorar .rar, .zip
+*.zip
+*.7z
+*.parquet
+
+# Ignorar .env
+.env
+.env.*
+
+# Ignorar archivos especificos
+data_asistencia.rar
+
+# Ignorar carpeta especifica
+segmentacion/dataset_asistencia/images/*.png
+data/extract/asistencia/*.png
+data/extract/otros/*.png
+data/split/*.png
+
+# Ignorar DS_Store
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# Jupyter Notebook
+.ipynb_checkpoints
