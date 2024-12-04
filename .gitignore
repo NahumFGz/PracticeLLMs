@@ -34,3 +34,7 @@ db.sqlite3-journal
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+
+# Ignorar archivos pesados
+data/hotpotqa/hotpot_train_v1.1.json

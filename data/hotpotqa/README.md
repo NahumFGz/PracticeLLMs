@@ -1,0 +1,4 @@
+- HotpotQA
+  - Descripción: Dataset diseñado para razonamiento multihop, donde las preguntas requieren información de múltiples documentos.
+  - Formato: JSON con preguntas, respuestas y documentos relacionados.
+  - Enlace: https://hotpotqa.github.io/
