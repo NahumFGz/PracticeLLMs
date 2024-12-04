@@ -1,0 +1,4 @@
+- SQuAD (Stanford Question Answering Dataset)
+  - Descripción: Uno de los datasets más populares para entrenar y probar sistemas de preguntas y respuestas. Incluye preguntas sobre fragmentos de Wikipedia.
+  - Formato: JSON con preguntas, respuestas y el texto relevante.
+  - Enlace: https://rajpurkar.github.io/SQuAD-explorer/
