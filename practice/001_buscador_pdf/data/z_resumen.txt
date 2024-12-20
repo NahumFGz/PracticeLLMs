@@ -1,0 +1,39 @@
+Artículo 1: Acceso de los grupos de interés a la arena gubernamental
+Autores: Iván Medina y Laura Chaqués-Bonafont
+Resumen: Este estudio compara el acceso de los grupos de interés al gobierno durante los mandatos de Mariano Rajoy y Pedro Sánchez (2012-2021), utilizando una base de datos de 2409 reuniones bilaterales. Los resultados muestran que los grupos empresariales tuvieron mayor acceso en comparación con otros grupos, con variaciones según áreas políticas y la ideología del partido en el poder. Bajo el gobierno de coalición PSOE-UP, se observó mayor interacción con sindicatos y ONG.
+Palabras clave: Agendas, asociaciones empresariales, gobierno, grupos de interés, ONG, sindicatos.
+
+Artículo 2: Asociacionismo, capital social y género en la sociedad española
+Autores: Loreto Vázquez-Chas y José Atilano Pena-López
+Resumen: Este trabajo analiza la participación asociativa en España desde una perspectiva de género, abordando equidad vertical (niveles de participación) y horizontal (tipos de asociaciones). A través de datos de la Encuesta sobre el Capital Social (2019), se concluye que los roles de género limitan la participación política, especialmente en el asociacionismo político, perpetuando desigualdades de confianza y participación social.
+Palabras clave: Capital social, confianza general, género, participación asociativa.
+
+Artículo 3: ¿El género hace la diferencia? Perfiles de carrera en las presidencias latinoamericanas
+Autores: Mélany Barragán Manjón y Cecilia Graciela Rodríguez Balmaceda
+Resumen: Este estudio examina las diferencias en las trayectorias de hombres y mujeres que han ocupado presidencias en América Latina (1978-2022), basándose en tres dimensiones: capital de origen, canal de entrada a la política y capitalización tras dejar el cargo. Los resultados evidencian patrones distintos según el género, lo que destaca las desigualdades en el acceso y la proyección política.
+Palabras clave: América Latina, carreras políticas, género, presidencia.
+
+Artículo 4: Educación y actitudes hacia la inmigración en España
+Autor: Carlos Carvajal-Martín
+Resumen: Este estudio cuantitativo explora la relación entre el nivel educativo y las actitudes hacia la inmigración en España, basándose en datos de la Encuesta Social Europea. Se aplicaron análisis bivariantes, de segmentación y regresión lineal múltiple, hallando que el nivel educativo influye en las actitudes, aunque menos de lo esperado, con factores como los orígenes familiares jugando un rol mediador.
+Palabras clave: Análisis bivariante, análisis multivariante, inmigración, nivel de estudios, orígenes familiares.
+
+Artículo 5: Eficacia política e identidad partidista en la participación electoral en España
+Autores: Antonio Francisco Alaminos-Fernández, Francisco Francés García y Óscar Santacreu-Fernández
+Resumen: Este estudio analiza cómo la eficacia política y la identidad partidista influyen en la participación electoral en España, usando modelos estructurales basados en el Estudio CIS 3226. Los resultados destacan que la identificación partidista es clave para explicar la percepción de eficacia política y el comportamiento electoral, con variaciones según edad, sexo, ingresos y otros factores sociodemográficos.
+Palabras clave: Democracia, eficacia política, identificación partidista, participación electoral.
+
+Artículo 6: La juventud valenciana y la cuarta ola feminista
+Autores: Emma Gómez Nicolau y Vicent A. Querol
+Resumen: Este artículo analiza los discursos sociales de jóvenes valencianos (18-30 años) sobre género e igualdad en el contexto de la cuarta ola feminista. Mediante grupos de discusión, se identifican posiciones frente al feminismo, estrategias de cambio y respuestas a la misoginia popular, en un marco influido por la hipervisibilidad del feminismo en el contexto neoliberal.
+Palabras clave: Activismos, discursos sociales, feminismo popular, grupos de discusión, neoliberalismo.
+
+Artículo 7: Preferencias ciudadanas hacia políticas fiscales en España
+Autores: Jorge Martínez-Vázquez, Eduardo Sanz-Arcega y José Manuel Tránchez-Martín
+Resumen: Este trabajo examina las preferencias ciudadanas hacia la armonización fiscal del Impuesto sobre Sucesiones y Donaciones en España, usando datos del Barómetro Fiscal 2019. Los resultados muestran que ciudadanos de regiones con menor ISD o gobernadas por partidos nacionalistas tienden a oponerse a la armonización fiscal, reflejando tensiones entre descentralización y autogobierno.
+Palabras clave: Armonización fiscal, barómetro fiscal, España, impuesto sobre sucesiones, preferencias ciudadanas.
+
+Artículo 8: Pobreza laboral en España: transiciones y factores
+Autores: Alba Lanau y Mariona Lozano
+Resumen: España enfrenta altas tasas de pobreza laboral e inestabilidad. Este estudio, basado en la Encuesta de Condiciones de Vida (2017-2020), analiza las transiciones hacia y desde la pobreza laboral, identificando factores de riesgo y protección. Los hogares con menores son los más afectados, destacando la insuficiencia del sistema de protección social y la persistencia de riesgos acumulativos.
+Palabras clave: Mercado laboral, pobreza infantil, pobreza laboral, precariedad, transiciones.
