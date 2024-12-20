@@ -1,4 +1,4 @@
-# TesisHaystack - Python3.11 - haystack-ai
+# PracticeLLMs - Python3.11 - haystack-ai
 
 - sudo apt install python3.11
 - sudo apt install python3.11-venv
@@ -9,7 +9,7 @@
 2. Instalar fastapi
    pip3 install fastapi
 
-# TesisHaystack - Python3.11 - farm-haystack
+# PracticeLLMs - Python3.11 - farm-haystack
 
 - sudo apt install python3.11
 - sudo apt install python3.11-venv
