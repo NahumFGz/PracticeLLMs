@@ -30,3 +30,15 @@
 
 5. Instalar fastapi
    pip3 install fastapi
+
+# PracticeLLMs - Python3.10 - langchain - FAIS es compatible con python3.10
+
+1. Install pythorch
+   pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+2. Install faiss para cpu o gpu
+   pip install faiss-cpu
+   pip3 install faiss-gpu
+
+3. Install langchain
+   pip3 install -r requirements/langchain.txt
