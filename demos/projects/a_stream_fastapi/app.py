@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, StreamingResponse
 from langchain.schema import Document
 from langchain_community.vectorstores.chroma import Chroma
@@ -32,6 +33,15 @@ model = ChatOpenAI(temperature=0, streaming=True)
 retrieval_chain = {"context": retriever, "question": RunnablePassthrough()} | prompt | model | StrOutputParser()
 
 app = FastAPI()
+
+# Configuración de CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://0.0.0.0:8000", "http://localhost:8000"],
+    allow_credentials=True,
+    allow_methods=["*"],  # Métodos HTTP permitidos
+    allow_headers=["*"],  # Encabezados permitidos
+)
 
 
 async def generate_chat_responses(message):
