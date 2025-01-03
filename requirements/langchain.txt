@@ -18,3 +18,5 @@ webcolors==24.11.1
 fastapi
 chromadb
 uvicorn
+grandalf
+faiss-cpu
