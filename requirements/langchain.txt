@@ -20,3 +20,5 @@ chromadb
 uvicorn
 grandalf
 faiss-cpu
+redis
+langchain-redis
