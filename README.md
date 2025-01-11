@@ -42,3 +42,8 @@
 
 3. Install langchain
    pip3 install -r requirements/langchain.txt
+
+# Caché con redis
+
+1. Redis debe ser compatible con json
+   docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
