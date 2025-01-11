@@ -20,6 +20,7 @@ watchfiles==1.0.3
 webcolors==24.11.1
 websockets==14.1
 tomli==2.0.1
+python-decouple==3.8
 fastapi
 chromadb
 uvicorn
