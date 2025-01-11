@@ -21,6 +21,7 @@ webcolors==24.11.1
 websockets==14.1
 tomli==2.0.1
 python-decouple==3.8
+langchain-redis
 fastapi
 chromadb
 uvicorn
