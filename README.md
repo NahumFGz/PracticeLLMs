@@ -47,3 +47,4 @@
 
 1. Redis debe ser compatible con json
    docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
+   docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:6.2.6-v18
