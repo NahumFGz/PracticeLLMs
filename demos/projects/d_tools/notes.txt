@@ -1,0 +1,22 @@
+from langchain_core.tools import tool
+from pydantic import BaseModel, Field
+
+@tool
+def multiply(a: int, b: int) -> int:
+    """Multiply two numbers."""
+    return a * b
+
+@tool
+def add(a: int, b: int) -> int:
+    """Add two numbers."""
+    return a + b
+
+@tool
+def reverse_text(text: str) -> str:
+    """Reverse the input text."""
+    return text[::-1]
+
+# Inspecccionar atributos
+print(multiply.name, "\n", multiply.description, "\n", multiply.args)
+print(add.name, "\n", add.description, "\n", add.args)
+print(reverse_text.name, "\n", reverse_text.description, "\n", reverse_text.args)
